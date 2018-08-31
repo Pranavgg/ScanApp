@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\b12aa78197de36725719818f8302a130eaab5ce6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_51e9aca2f0e9465611b5b936b4b011fcd36ccc02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\a45a3ebce32955163e8fa5b050a9c3f8ad5a5e11\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a936f4451f91150d42291303fbb9d63cc5034321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\66593ec020f74c24f84214258116439c86e770d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_53d562dc88340582722523c9940f9b3744f4d616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\33a19dcf42d2a863ed470da7b44ea1fef151780a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_dc4bf335e413ff5ca634fe6ac3fa416ef1e3b887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\ead864c3bf70ce8a98b9348f11f27eb57e7dc874\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_e1abee58e6b1daa591e4b087c42dd4ad63e8abc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\dbc06803870a3652f7a7411241a5ee53dbf4d617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_70091d287c5968eb88e8ed4ace46edace3611d02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\c7219c942fef19c46baa114417164318df38f882\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_bf405a395a9dfde90421e45bdb212a7420b6d306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\9e70217bd573e71ca8eb1a051bb6b6d5ab41c174\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_a2eadd877c4d5f83198e5e04fcc40749bc6bf77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\0db053ff218d9d003434dbc482d21fb0198b7bfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_a5cee039e2daf20e5276f4e3fef3f81af31449af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\7ba39ed2aa7e3e23152704180343306e0e3c970a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_ebd2fa5f8dc43aba4a182c917f449120764d5d53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\c54e054fc447ee3a72b8eb11c366322cb3ddbb11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bc30d4ed335f2c54fcd56e47d78fdbc23cd6b07\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\a3bfdaf9852d2a96761350a2de7cecbcf20971c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_6eb305cb2946061f8b152a8f26cb1460dd9d83eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\9810085555ab4071c1e4b668b333dfdd47bd53a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_3270d9b33df8f85d2be49a0e43412d34722afff8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a377585f2d4ae808321b2f89cd538fe227e12e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\22a89b2a6298acd5f1a08d07a85f91a7689a7721\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_0cda7151cdb880d9ae2785bbfeecd2af65f1617a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\15ec16d8e5ae0001bb2e1df882dc6f666c4e0c12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_ad093b0f125e2d4f4b779e9344d444aa62333cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\2e206d57ca7acdc5eeddc02847639ef59b0539ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_3e8690caba526b2ff0036019a9b22b971175d2bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\489429943fa625226a8113f696f52bab31b643fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_7da96c54215e4e65a7f58d4ced0b487ddf2e349c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\234edd27a01b104558fde967cc238a87a6674b65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_2d2214facc3c2157012797d80e7138439edcd644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\cf7a7f90ddbfb9a998123713158230b38cae9f9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_2f03ba5c9b77e5a4a713af10e1bf78ba868e45fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\dd8348c8589f9ba9ce4f4842115f8c2e828a8e20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_2e3e60f85f83d150995ea9fa679973d6d1c9807d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\6d5e1e082d955de9c3f50ac1c40e901b87508707\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_68699cfda3b1da96df9c3bf3cb4db9b7d6b58459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\5baa9141e39da14da9402dc2191ee31e62ea2c30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_0798c1f5914279613f72bcfadf598f3ce3ca54ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\962000c6733d2042c019f0df0ae63f1435955804\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_6d2fa6ad98ed2d3874eea6dd4b8eb1fc2dbece7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\db8c31232c8c0d322d46e2f1ca00d023082a3834\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_5f5d65453d0e73bb66826dbd042ea3ed0d70a753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\80636dfe9bc41817487481bce9d91de4e9d45192\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_8497257cde2e7c72f6879e9f990e073789876ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\d4b46e9fc3bc3e862425776a874abf96d6cd3489\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_4fd699c2dbdec53dd16af233e56b558ff8fc5f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\dd450648cbff7d669af5904adf03ccdaec19221a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_0c4252e62cf211e80d3da9d29973dd8c059742ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\6c91a63597d26467a816b3f9ee551b7ee5eb9213\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_e3a44ec37961ca543e678ab2007a1d3949bbedd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\7ebb7517005818b6b6a2aa13b85742aad77efcba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_898eb27d905d6b4a1e005d7fa9db55dad11f9948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\0166b4682ad83de76a10299323cdc9009ff60d6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_6120b0140d3a2d4aebe95ef66730fde4157b53ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\cd4ae4f79146748eaf4b0adf483de54431a052d8\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_2ed870928ce2c304d20aab063e9ec2f3a4dcb004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\837f077b75a3cce5ca027174aa327d9a7c69deb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_0f9ee594dc0464704e3cfef3b5c0ae5be4f64c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\8943cd4ddc7e09c7d3b72b3c61e4e609c963946b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_af24b5575b9e0363fb638659e64b60636f6572bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\cd4ae4f79146748eaf4b0adf483de54431a052d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_ad60233282b8113e612c52e2e321a973e8be4dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\b22c60a82993beb9b68a2dabe63e998496bddeb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_098d5ee6e66dba4989eaa43cbe05213e3c8db969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\0b5748eaca40f0db0abda99998b8f80b27f82883\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_26e71289918461f7546308f397ad9d46552c6ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\1e14e571cedf8a587502cd11bc99c4624d083f02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_45dd157f00a5520bc4270cf67b1e8bc2438e6651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\3c7a8813985b9a6e7b0c18d507fc0e756730a879\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_0ead8f3b3a7c845312f2665d289b3eed34b621f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\c00e1a6ee4f3e22d55d9914855aa3974a5e44897\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_64764150bfdbc10c891b4f03d9468eb9037d8478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\8334af77bfca793174bec580f344f567de7abd0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_d5917f315e4f15e2abf1879695f778800849b9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\ef5e01e6f24b68e462303f3128c28c037ab83b43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_e9e96beada16080e286f2813c0146ef23dd6e4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\a45a3ebce32955163e8fa5b050a9c3f8ad5a5e11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_9333fe7846964e2ff9d8f01f4f65c693ae9070fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\a55deb07b21108c92bb051f47dd7cdbb2eef0fd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_d97707d24acce58e86aa09595d85dc89d48dd501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\f510f920e7502ea7c3728371baefe3382add42a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_5ca8788ba4f746476c78b6a72e2bee1b7d7f34e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\96cabc2bf53d7b33f09af534550263a258e1c74e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_07010aa91af3293e5ab4cf084e66177bcdad2c8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\3a2f23dc4072627b7024850e9006148b40f3de2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_5c0a82ed9ed70d68528bb47dd29bb5ffcfd4b0f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\d4c1d99cbdbad2970bd4e9a54c3f3acf4eb13c82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_08ae03da913ece9e9171c5a92d096115c277d7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\0d5bf8356e48f7bea71f28c6afbe1f7baa5f2c40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_87f67b1fc4f9883f26bc8bc166593ea917a475d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_39883635b874a2255693c2063df2a5949223d77f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="4a9eb7629294c20b07bb33c4c96b3674308681c7">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_381986ef33948b7a51240712373941d903f3cf93\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\750c5d4427f936185262520df9f98326b9087753\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_4ba6f1d39e484b7ce8f8c14a905561715301bffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\e06b8dd3caba5d5da577a487d7bcbad031d74a5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_8c05345bb412c74d9f4ed89426a5c2aae74b7d02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\6e40c37d7f0be7df43304126cca277b999ec4ad3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_92b3c91a646ab895e8b2132ee64a4aeb688836e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\f31066425ac90d1930e37387c8443da5615e8db1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_79274abc50a8dd07a0808b7b6f8aed1a6201964b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\bcbc19722f1d452b5ebb25acf6c6d4a93a694395\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_f423fa94f3a50c876040164c0d34dd0d9829b639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\3a4a9870ad0c40cf7867b6d19d3a881bad2027ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_62b7e70afcad1e83f7698bcc88e53598287b2a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\e033404eba8f3a43663b386997bb81165faba96d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_a2eac8731e5d2d09a7d82a3e910f76735a8247a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\30285ccbb46c7fc30f8674d0a05153799951d66c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_ff5aed3df0630ae9a2eeb166670378ba46be08f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\ada688810adbd186bff631d3ba8c3f63ba8ed055\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_4c612bff1f20519cef558aa419a2f586e2068c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\58e20be21e68a3da6b7feddedb3ab16f3eaf3c49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_01eed64deef3426653759f8ad52caeb4d4137355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\c718ab0b40fc4b60c3affb73462fc18c8466d79c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_4625be36a10c8443621d9f37408299685cf6b7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav Gaikwad\.android\build-cache\75e0d07d1f05331ed623b83afce2aad9c86b99f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Pranav Gaikwad\AndroidStudioProjects\Scanapp\app\build\intermediates\pre-dexed\debug\classes_bc4ccd066218f09bcc919dc228eddfc508ddba77.jar" />
+    </item>
+
+</items>
